@@ -1,0 +1,206 @@
+
+body{
+margin:0px auto 0px auto;
+}
+
+#hoja{
+  margin:0px auto 0px auto;
+  width:650px; 
+}
+
+#fondo_total{
+  width:650px; 
+  height:1400px;
+  background-image:url("../images/fondo.jpg");
+  background-repeat:no-repeat;
+}
+
+#encabezado{
+  height:100px;
+}
+
+#logo{
+  float:left;
+  margin-left:23px;
+  margin-top:30px;
+}
+
+#dir{
+  float:right;
+  margin-top:19px;
+  margin-right:22.40px;
+}
+
+#imagen_principal{
+  height:300px; 
+}
+
+#princi{
+  margin-left:23px; 
+}
+
+#bloque_noticias{
+
+}
+
+#noticias_izquierda{
+  float:left;
+  height:890px;
+  width:400px;
+  margin-left:23px;
+}
+
+#noticia_larga1{
+  height:167px;
+}
+
+#titulo1{
+  font-size:20.0pt;
+  color:#81B83F;
+}
+
+#text1{
+  font-size:9.0pt;
+  font-family:Arial;
+  color:black;
+  width:360px;
+}
+
+.Learn1{
+  float: right;
+  margin-right: 20px;
+  font-size:9.0pt;
+  font-family:Arial;
+}
+
+.Learn1 a{
+  float: right;
+  margin-right: 20px;
+  font-size:9.0pt;
+  font-family:Arial;
+  text-decoration:none;
+  color:#4280A5;
+}
+
+.Learn1 a:hover{ 
+  color:#1DA6EF;
+}
+
+#noticia_larga2{
+  height:405px;
+}
+
+#titulo2{
+  font-size:20.0pt;
+  color:#81B83F;
+  width:400px;
+}
+
+#insurance{
+ height:270px;
+ width:380px;
+}
+
+#text2{
+  font-size:9.0pt;
+  font-family:Arial;
+  color:black;
+  width:330px;
+}
+
+#noticia_larga3{
+  height:270px;
+}
+
+#titulo3{
+  font-size:20.0pt;
+  color:#81B83F;
+}
+
+#text3{
+  font-size:9.0pt;
+  font-family:Arial;
+  color:black;
+  width:340px;
+}
+
+.Learn2{
+  float: right;
+  margin-right: 20px;
+  font-size:9.0pt;
+  font-family:Arial;
+}
+
+.Learn2 a{
+  float: right;
+  margin-right: 20px;
+  font-size:9.0pt;
+  font-family:Arial;
+  text-decoration:none;
+  color:black;
+  color:#4280A5;
+}
+
+.Learn2 a:hover{ 
+  color:#1DA6EF;
+}
+
+#noticias_derecha{
+  float:right;
+  height:890px;
+  width:200px;
+  margin-right:19px;
+}
+
+#hiper{
+  font-size:9.0pt;
+  font-family:Arial;
+}
+
+#hiper a{
+  text-decoration:none;
+  color:black;
+  color:#4280A5;
+}
+
+#hiper a:hover{ 
+  color:#72A534;
+
+}
+
+.Corta{
+  margin-left: 20px;
+  font-size:9.0pt;
+  font-family:Arial;
+  color:black;
+  width:160px;
+}
+
+#noticia_corta2{
+  margin-top:40px; 
+}
+
+.Corta2{
+  margin-top:10px;
+  font-size:9.0pt;
+  font-family:Arial;
+  color:black;
+  width:180px;
+}
+
+
+#pie_de_pagina{
+  height:100px;
+  margin-top:910px;
+}
+
+.Pie{
+  width:410px;
+  font-family:Arial;
+  text-align:center;
+  font-size:9pt;
+  line-height:150%;
+  margin-left:110px;
+}
+
+
